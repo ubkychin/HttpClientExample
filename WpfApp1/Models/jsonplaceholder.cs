@@ -12,6 +12,7 @@ namespace WpfApp1.Models
         public int Id { get; set; }
         public string Title { get; set; }
         public string Body { get; set; }
+        public string Nothing { get; set; }
     }
 
     class Posts
